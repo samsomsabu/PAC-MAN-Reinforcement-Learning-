@@ -1,5 +1,66 @@
+
 # Pacman Reinforcement Learning Exercise
 
-![img](assets/pacman.png)
+![Pacman Image](assets/pacman.png)
 
-This project is based on the UC Berkeley RL Exercise. This exercise includes, amongst other things, a Pacman game framework that is used in order to train RL agents to play the game (or a simplified version of it).
+## Overview
+
+This project is part of the **Reinforcement Learning (RL)** course in the **M.Sc. Artificial Intelligence and Machine Learning** program at **Christ (Deemed to be University), Bangalore**. The exercise is based on the **UC Berkeley RL Exercise**, which includes a Pacman game framework designed to train RL agents to play the game (or a simplified version of it).
+
+## Team Members
+
+- **Samson Sabu**  
+- **Guhan S.**
+
+## Objective
+
+The goal of this project is to apply reinforcement learning algorithms to train agents capable of navigating and playing Pacman. We have also modified the original framework to make our implementation unique and tailored to our course objectives.
+
+## Modifications
+
+We have introduced several changes to the UC Berkeley Pacman game framework, including:
+
+- **Custom Environment Tweaks**: Modified game dynamics and environment settings to introduce new challenges.  
+- **Algorithm Enhancements**: Integrated advanced RL techniques not included in the original framework.  
+- **Personalized Features**: Added unique gameplay elements to make the project distinct.  
+
+## Key Components
+
+1. **Agent Training**  
+   - Implemented RL algorithms such as Q-Learning, SARSA, and Deep Q-Networks (DQN).  
+   - Tuned hyperparameters for optimal performance in the modified environment.
+
+2. **Environment Setup**  
+   - Customized the Pacman grid and gameplay logic to ensure diversity in training scenarios.
+
+3. **Performance Evaluation**  
+   - Analyzed the agents' performance using metrics like cumulative rewards and survival time.
+
+## Getting Started
+
+1. Clone this repository:  
+   ```bash
+   git clone <repository-url>
+   cd pacman-rl
+   ```
+
+2. Install dependencies:  
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Run the Pacman game:  
+   ```bash
+   python pacman.py
+   ```
+
+4. Train RL agents:  
+   ```bash
+   python train_agent.py
+   ```
+
+## Future Work
+
+- Implement multi-agent scenarios to explore collaborative and competitive behaviors.  
+- Experiment with transfer learning to adapt trained agents to new environments.  
+- Explore additional algorithms like Actor-Critic and PPO.
