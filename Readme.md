@@ -38,7 +38,7 @@ We have introduced some changes to the UC Berkeley Pacman game framework, includ
 
 1. Clone this repository:  
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/samsomsabu/PAC-MAN-Reinforcement-Learning-Project/blob/main/Readme.md
    cd pacman-rl
    ```
 
