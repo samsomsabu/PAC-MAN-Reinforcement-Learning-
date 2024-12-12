@@ -18,16 +18,14 @@ The goal of this project is to apply reinforcement learning algorithms to train 
 
 ## Modifications
 
-We have introduced several changes to the UC Berkeley Pacman game framework, including:
+We have introduced some changes to the UC Berkeley Pacman game framework, including:
 
 - **Custom Environment Tweaks**: Modified game dynamics and environment settings to introduce new challenges.  
-- **Algorithm Enhancements**: Integrated advanced RL techniques not included in the original framework.  
-- **Personalized Features**: Added unique gameplay elements to make the project distinct.  
 
 ## Key Components
 
 1. **Agent Training**  
-   - Implemented RL algorithms such as Q-Learning, SARSA, and Deep Q-Networks (DQN).  
+   - Implemented RL algorithms such as Q-Learning.  
    - Tuned hyperparameters for optimal performance in the modified environment.
 
 2. **Environment Setup**  
