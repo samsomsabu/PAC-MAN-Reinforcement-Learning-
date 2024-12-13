@@ -7,7 +7,7 @@ This project is part of the **Reinforcement Learning (RL)** course in the **M.Sc
 ## Team Members
 
 - **Samson Sabu**  
-- **Guhan S.**
+- **Guhan K.S.**
 
 ## Demo
 
