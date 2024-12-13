@@ -1,5 +1,13 @@
 # PacmanDQN
 Deep Reinforcement Learning in Pac-man
+## Overview
+
+This project is part of the **Reinforcement Learning (RL)** course in the **M.Sc. Artificial Intelligence and Machine Learning** program at **Christ (Deemed to be University), Bangalore**. The exercise is based on the **UC Berkeley RL Exercise**, which includes a Pacman game framework designed to train RL agents to play the game (or a simplified version of it).
+
+## Team Members
+
+- **Samson Sabu**  
+- **Guhan S.**
 
 ## Demo
 
